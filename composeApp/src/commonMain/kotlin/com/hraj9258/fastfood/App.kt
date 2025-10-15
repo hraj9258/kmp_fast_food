@@ -1,6 +1,6 @@
 package com.hraj9258.fastfood
 
-import androidx.compose.runtime.*
+import androidx.compose.runtime.Composable
 import com.hraj9258.fastfood.core.presentation.ui.theme.FastFoodTheme
 import com.hraj9258.fastfood.navigation.presentation.NavContainer
 import org.jetbrains.compose.ui.tooling.preview.Preview

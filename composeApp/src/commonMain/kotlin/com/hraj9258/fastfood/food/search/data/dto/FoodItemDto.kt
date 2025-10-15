@@ -1,8 +1,8 @@
 package com.hraj9258.fastfood.food.search.data.dto
 
 import kotlinx.serialization.ExperimentalSerializationApi
-import kotlinx.serialization.Serializable
 import kotlinx.serialization.SerialName
+import kotlinx.serialization.Serializable
 import kotlinx.serialization.json.JsonIgnoreUnknownKeys
 
 @OptIn(ExperimentalSerializationApi::class)

@@ -1,6 +1,6 @@
-package com.hraj9258.fastfood;
+package com.hraj9258.fastfood
 
-import android.app.Application;
+import android.app.Application
 import com.hraj9258.fastfood.di.initKoin
 import org.koin.android.ext.koin.androidContext
 
